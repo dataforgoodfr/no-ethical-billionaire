@@ -1,0 +1,13 @@
+# Choix image
+# Installation NocoDB
+# Installations supplémentaires (?)
+
+# Installation Python FastAPI
+# Installation React Framework (à définir)
+
+# Récupération sources + build BACK
+# Déploiement du BACK
+# Récupération sources + build FRONT
+# Déploiement du FRONT
+
+RUN echo Hello there
